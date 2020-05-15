@@ -1,0 +1,22 @@
+{
+  "name": "project0",
+  "version": "1.0.0",
+  "description": "Carina Lopez -Profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/me50/CarinaLR.git"
+  },
+  "author": "Carina Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/me50/CarinaLR/issues"
+  },
+  "homepage": "https://github.com/me50/CarinaLR#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.0"
+  }
+}
